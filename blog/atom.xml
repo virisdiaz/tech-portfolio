@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://virisdiaz.github.io/tech-portfolio/blog</id>
+    <title>Viri Diaz Blog</title>
+    <updated>2022-11-11T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://virisdiaz.github.io/tech-portfolio/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Viri Diaz news and events.</subtitle>
+    <logo>https://virisdiaz.github.io/tech-portfolio/undefined</logo>
+    <rights>Copyright © 2022 Viridiana Jimenez Diaz</rights>
+    <entry>
+        <title type="html"><![CDATA[Sumer like Nov 2022]]></title>
+        <id>https://virisdiaz.github.io/tech-portfolio/blog/2022/11/11/blog-post.html</id>
+        <link href="https://virisdiaz.github.io/tech-portfolio/blog/2022/11/11/blog-post.html"/>
+        <updated>2022-11-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>New post will come soon!</p> ]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+</feed>
