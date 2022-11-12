@@ -3,12 +3,8 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+These are my projects more will be added soon!
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+## Projects 
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+[DuckDuckGo API Test](https://github.com/virisdiaz/duckduckgo)
