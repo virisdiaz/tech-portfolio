@@ -8,10 +8,6 @@ I do not only like technology. I also like arts. During my free time I paint wat
 
 
 
-## Projects 
-
-[DuckDuckGo API Test](https://github.com/virisdiaz/duckduckgo)
-
 ## Social Media
 
 See the bottom of my website pages.
